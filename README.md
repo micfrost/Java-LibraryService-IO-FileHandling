@@ -25,10 +25,7 @@ This Java project is a comprehensive Library Management System designed for mana
 
 To run the program, simply clone this repository and execute the `Main` class. Ensure Java is installed on your machine.
 
-## Contributions
+## Author
+Made by Michal Frost.
 
-Contributions to this project are welcome. Please fork the repository and submit a pull request for any enhancements or bug fixes.
-
-## License
-
-This project is licensed under [License Name]. Feel free to use it as per the license terms.
+Happy coding.
